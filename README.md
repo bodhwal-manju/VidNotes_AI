@@ -15,3 +15,10 @@ VidNotes AI is a Generative AI project that extracts detailed transcripts from Y
 [https://drive.google.com/file/d/1pUieaDNDAqpWPLZwE7xhyflvdTC3HWIa/view?usp=drive_link](https://drive.google.com/file/d/1pUieaDNDAqpWPLZwE7xhyflvdTC3HWIa/view?usp=drive_link)
 <h2>Deployed App Link</h2>
 [https://bodhwal-manju-vidnotes-ai-app-ryyn02.streamlit.app/]
+<h2>Skills and Technologies</h2>
+    <ul>
+        <li><strong>Streamlit:</strong> For creating the web application interface.</li>
+        <li><strong>YouTube Transcript API:</strong> For extracting video transcripts.</li>
+        <li><strong>Generative AI:</strong> Leveraging Gemini-Pro for generating detailed notes.</li>
+        <li><strong>Large Language Models (LLM):</strong> Utilization of LLM for AI-driven text generation.</li>
+    </ul>
