@@ -65,5 +65,10 @@ pip install -r requirements.txt
             <p>Click on the "Generate Notes" button to get the detailed transcript. Use the "Download Notes" button to download the notes.</p>
         </li>
     </ol>
-    
+<h2> LinkedIn Post</h2>
+[https://www.linkedin.com/posts/manju-jangra-2064ab237_ai-generativeai-notetaking-activity-7162111144508280832-7S_9?utm_source=share&utm_medium=member_desktop]
 
+   
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
