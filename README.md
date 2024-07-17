@@ -27,13 +27,13 @@ VidNotes AI is a Generative AI project that extracts detailed transcripts from Y
 <p>1. Clone this repository</p>
 
 ```
-https://github.com/bodhwal-manju/Flight_Fare_Predictor.git
+https://github.com/bodhwal-manju/VidNotes_AI.git
 ```
 
 <p>2. Navigate to the project directory:</p>
 
 ```
-cd Flight_Fare_Predictor
+cd VidNotes_AI
 ```
 
 <p>3. Create Virtual Environment(Using venv (Python 3 built-in module))</p>
