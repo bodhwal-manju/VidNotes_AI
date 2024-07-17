@@ -14,4 +14,4 @@ VidNotes AI is a Generative AI project that extracts detailed transcripts from Y
 
 [https://drive.google.com/file/d/1pUieaDNDAqpWPLZwE7xhyflvdTC3HWIa/view?usp=drive_link](https://drive.google.com/file/d/1pUieaDNDAqpWPLZwE7xhyflvdTC3HWIa/view?usp=drive_link)
 <h2>Deployed App Link</h2>
-[https://bodhwal-manju-vidnotes-ai-app-ryyn02.streamlit.app/](https://bodhwal-manju-vidnotes-ai-app-ryyn02.streamlit.app/)
+[https://bodhwal-manju-vidnotes-ai-app-ryyn02.streamlit.app/]
