@@ -22,3 +22,48 @@ VidNotes AI is a Generative AI project that extracts detailed transcripts from Y
         <li><strong>Generative AI:</strong> Leveraging Gemini-Pro for generating detailed notes.</li>
         <li><strong>Large Language Models (LLM):</strong> Utilization of LLM for AI-driven text generation.</li>
     </ul>
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone this repository</p>
+
+```
+https://github.com/bodhwal-manju/Flight_Fare_Predictor.git
+```
+
+<p>2. Navigate to the project directory:</p>
+
+```
+cd Flight_Fare_Predictor
+```
+
+<p>3. Create Virtual Environment(Using venv (Python 3 built-in module))</p>
+
+```
+python -m venv venv
+```
+
+<p>4. Activate the virtual environment(On Windows):</p>
+
+```
+venv\Scripts\activate
+```
+
+<p>5. Install Requirements</p>
+
+```
+pip install -r requirements.txt
+```
+<h2>Usage</h2>
+    <ol>
+        <li><strong>Run the Streamlit application:</strong>
+            <pre><code>streamlit run app.py</code></pre>
+        </li>
+        <li><strong>Input YouTube Video URL:</strong>
+            <p>Open your web browser and navigate to the provided local URL. Enter the YouTube video URL in the input field.</p>
+        </li>
+        <li><strong>Generate and Download Notes:</strong>
+            <p>Click on the "Generate Notes" button to get the detailed transcript. Use the "Download Notes" button to download the notes.</p>
+        </li>
+    </ol>
+    
+
