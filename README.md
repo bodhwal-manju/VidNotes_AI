@@ -66,7 +66,8 @@ pip install -r requirements.txt
         </li>
     </ol>
 <h2> LinkedIn Post</h2>
-[https://www.linkedin.com/posts/manju-jangra-2064ab237_ai-generativeai-notetaking-activity-7162111144508280832-7S_9?utm_source=share&utm_medium=member_desktop]
+[https://www.linkedin.com/feed/update/urn:li:activity:7162111144508280832/]
+
 
    
 <h2>🛡️ License:</h2>
